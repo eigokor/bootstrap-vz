@@ -17,6 +17,7 @@ properties:
         - testing
         - sid
         - unstable
+        - buster
   plugins:
     type: object
     properties:
